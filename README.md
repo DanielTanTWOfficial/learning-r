@@ -1,2 +1,2 @@
 # learning-r
-R basics
+I'm learning R!
